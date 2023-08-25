@@ -13,8 +13,8 @@
     z-index: 1;
 }
 
-@media (max-width: 1500px) {
+@media (max-width: 1900px) {
     .pages {
-        width: 1500px;
+        width: 1900px;
     }
 }

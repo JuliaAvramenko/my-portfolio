@@ -1,0 +1,11 @@
+.about__text {
+    color: hsla(0, 3%, 6%, 0.823);
+    font-size: 50px;
+    font-weight: 400;
+    line-height: 80px;
+    margin: 0 0 50px;
+    padding: 0;
+    text-align: center;
+    width: 1600px;
+
+}

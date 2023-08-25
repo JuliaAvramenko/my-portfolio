@@ -1,0 +1,9 @@
+.works__title {
+    margin: 0;
+    padding: 0;
+    font-weight: 600;
+    font-size: 220px;
+    color: rgb(255, 191, 0);
+    margin-bottom: 50px;
+    line-height: 150px;
+}

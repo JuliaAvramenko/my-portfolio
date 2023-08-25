@@ -1,0 +1,86 @@
+@import url(../blocks/header/header.css);
+@import url(../blocks/top/__container/top__container.css);
+@import url(../blocks/top/__image/top__image.css);
+@import url(../blocks/top/__paragraph/top__paragraph.css);
+@import url(../blocks/top/__text/top__text.css);
+@import url(../blocks/top/__title/top__title.css);
+@import url(../blocks/top/__wrapper/top__wrapper.css);
+@import url(../blocks/top/top.css);
+@import url(../blocks/container/container.css);
+@import url(../blocks/pages/pages.css);
+@import url(../blocks/about/__container/about__container.css);
+@import url(../blocks/about/__text/about__text.css);
+@import url(../blocks/about/__title/about__title.css);
+@import url(../blocks/about/about.css);
+@import url(../blocks/works/__cards/works__cards.css);
+@import url(../blocks/works/__container/works__container.css);
+@import url(../blocks/works/works.css);
+
+@import url(../blocks/works/__card1/works__card1.css);
+@import url(../blocks/works/__title/works__title.css);
+@import url(../blocks/works/__video/works__video.css);
+@import url(../blocks/header/__link/header__link.css);
+@import url(../blocks/header/__item/header__item.css);
+@import url(../blocks/header/__list/header__list.css);
+@import url(../blocks/header/__menu/header__menu.css);
+
+
+
+
+@import url(../blocks/footer/__container/footer__container.css);
+@import url(../blocks/footer/__icon/footer__icon.css);
+@import url(../blocks/footer/__image/footer__image.css);
+@import url(../blocks/footer/__info/footer__info.css);
+@import url(../blocks/footer/__text/footer__text.css);
+@import url(../blocks/footer/__title/footer__title.css);
+@import url(../blocks/footer/__wrapper/footer__wrapper.css);
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__span/footer__span.css);
+@import url(../blocks/footer/__link/footer__link.css);
+@import url(../blocks/icons/__icon/icons__icon.css);
+@import url(../blocks/icons/icons.css);
+@import url(../blocks/footer/__image-wrapper/footer__image-wrapper.css);
+
+
+
+
+/*
+@import url(../blocks);
+@import url(../blocks);
+@import url(../blocks);
+@import url(../blocks);
+@import url(../blocks);
+@import url(../blocks);
+@import url(../blocks);
+@import url(../blocks);
+@import url(../blocks);
+@import url(../blocks);
+@import url(../blocks);
+@import url(../blocks);
+@import url(../blocks);
+@import url(../blocks);
+@import url(../blocks);*/
+
+@font-face {
+    font-family: "Gilroy-Semibold";
+    src: url("../fonts/Gilroy-Semibold.ttf");
+}
+
+@font-face {
+    font-family: "Merriweather";
+    src: url("../fonts/Merriweather-Black.ttf");
+}
+
+@font-face {
+    font-family: "Gilroy-Extra-Bold";
+    src: url("../fonts/Gilroy-ExtraBold.otf");
+}
+
+@font-face {
+    font-family: "Gilroy-Light";
+    src: url("../fonts/Gilroy-Light.otf");
+}
+
+html {
+    scroll-behavior: smooth;
+}

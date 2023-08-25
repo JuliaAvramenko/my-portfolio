@@ -1,0 +1,6 @@
+.footer__wrapper {
+    display: flex;
+    align-items: center;
+    column-gap: 30px;
+
+}

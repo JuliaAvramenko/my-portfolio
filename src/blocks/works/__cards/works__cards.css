@@ -1,0 +1,10 @@
+.works__cards {
+    width: 1720px;
+    height: 1800px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(9, 180px);
+    grid-column-gap: 50px;
+    grid-row-gap: 40px;
+
+}

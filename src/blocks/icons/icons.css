@@ -1,0 +1,15 @@
+.icons {
+    width: 80px;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #ffbf00;
+    position: fixed;
+    z-index: 9;
+    top: 300px;
+    right: 0;
+    row-gap: 30px;
+
+}

@@ -1,0 +1,6 @@
+.top__container {
+    display: flex;
+    width: 1920px;
+    position: relative;
+    z-index: 1;
+}

@@ -1,0 +1,153 @@
+.works__card1 {
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 1;
+    grid-row-end: 4;
+    background-color: transparent;
+    overflow: hidden;
+}
+
+.works__card2 {
+    grid-column-start: 3;
+    grid-column-end: 4;
+    grid-row-start: 1;
+    grid-row-end: 3;
+    background-color: transparent;
+    overflow: hidden;
+}
+
+.works__card3 {
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-start: 1;
+    grid-row-end: 3;
+    background-color: transparent;
+    overflow: hidden;
+}
+
+.works__card4 {
+    grid-column-end: 4;
+    grid-column-start: 3;
+    grid-row-end: 6;
+    grid-row-start: 3;
+    background-color: transparent;
+    overflow: hidden;
+
+}
+
+.works__card5 {
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 4;
+    grid-row-end: 7;
+    background-color: transparent;
+    overflow: hidden;
+}
+
+.works__card6 {
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-start: 5;
+    grid-row-end: 7;
+    background-color: transparent;
+    overflow: hidden;
+}
+
+.works__card7 {
+    grid-column-start: 1;
+    grid-column-end: 3;
+    grid-row-start: 7;
+    grid-row-end: 9;
+    background-color: rgb(27, 26, 26);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    font-weight: 500;
+    font-size: 50px;
+    overflow: hidden;
+}
+
+.works__card8 {
+    grid-column-start: 3;
+    grid-column-end: 4;
+    grid-row-start: 6;
+    grid-row-end: 9;
+    background-color: transparent;
+    overflow: hidden;
+}
+
+.works__card9 {
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-start: 3;
+    grid-row-end: 5;
+    background-color: transparent;
+    overflow: hidden;
+}
+
+.works__card1:hover {
+    -webkit-transform: scale(1.5);
+    -ms-transform: scale(1.5);
+    transform: scale(1.5);
+    position: relative;
+    z-index: 10;
+}
+
+.works__card2:hover {
+    -webkit-transform: scale(1.5);
+    -ms-transform: scale(1.5);
+    transform: scale(1.5);
+    position: relative;
+    z-index: 10;
+}
+
+.works__card3:hover {
+    -webkit-transform: scale(1.5);
+    -ms-transform: scale(1.5);
+    transform: scale(1.5);
+    position: relative;
+    z-index: 10;
+}
+
+.works__card4:hover {
+    -webkit-transform: scale(1.5);
+    -ms-transform: scale(1.5);
+    transform: scale(1.5);
+    position: relative;
+    z-index: 10;
+}
+
+.works__card5:hover {
+    -webkit-transform: scale(1.5);
+    -ms-transform: scale(1.5);
+    transform: scale(1.5);
+    position: relative;
+    z-index: 10;
+}
+
+.works__card6:hover {
+    -webkit-transform: scale(1.5);
+    -ms-transform: scale(1.5);
+    transform: scale(1.5);
+    position: relative;
+    z-index: 10;
+}
+
+.works__card7:hover {
+    -webkit-transform: scale(1.5);
+    -ms-transform: scale(1.5);
+    transform: scale(1.5);
+    position: relative;
+    z-index: 10;
+}
+
+.works__card8:hover {
+    -webkit-transform: scale(1.5);
+    -ms-transform: scale(1.5);
+    transform: scale(1.5);
+    position: relative;
+    z-index: 20;
+}

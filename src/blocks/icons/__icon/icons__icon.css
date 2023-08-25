@@ -1,0 +1,8 @@
+.icons__icon {
+    width: 60px;
+    height: 60px;
+}
+
+.icons__icon:hover {
+    background-color: #096766;
+}

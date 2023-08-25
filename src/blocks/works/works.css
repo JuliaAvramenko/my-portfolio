@@ -1,0 +1,26 @@
+.works {
+    background-image: url(../../images/coding.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    /*background-color: #601010;*/
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    position: relative;
+    z-index: 2;
+}
+
+.works::before {
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    left: 0;
+    top: 0;
+    position: absolute;
+    content: "ilkk;";
+    background-color: rgba(228, 226, 226, 0.484);
+    opacity: 0.2;
+}

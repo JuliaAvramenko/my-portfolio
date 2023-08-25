@@ -7,3 +7,10 @@
     z-index: 2;
 
 }
+
+
+@media (max-width: 1900px) {
+    .header {
+        right: 10px;
+    }
+}

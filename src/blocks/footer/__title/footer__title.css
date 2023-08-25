@@ -9,3 +9,12 @@
     line-height: 120px;
 
 }
+
+@media (max-width: 1900px) {
+    .footer__title {
+        font-size: 80px;
+
+        margin-bottom: 40px;
+        line-height: 80px;
+    }
+}

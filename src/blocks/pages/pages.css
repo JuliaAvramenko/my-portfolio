@@ -1,5 +1,4 @@
 .pages {
-
     width: 1920px;
 
     margin-right: auto;
@@ -12,6 +11,10 @@
     height: 100%;
     position: relative;
     z-index: 1;
+}
 
-
+@media (max-width: 1500px) {
+    .pages {
+        width: 1500px;
+    }
 }

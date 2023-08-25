@@ -3,3 +3,9 @@
     justify-content: center;
     width: 1920px;
 }
+
+@media (max-width: 1900px) {
+    .footer__container {
+        width: 1200px;
+    }
+}

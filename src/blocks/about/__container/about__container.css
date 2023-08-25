@@ -9,6 +9,10 @@
     max-width: 1920px;
     margin-left: auto;
     margin-right: auto;
+}
 
-
+@media (max-width: 1900px) {
+    .about__container {
+        max-width: 1280px;
+    }
 }

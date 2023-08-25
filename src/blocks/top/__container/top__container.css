@@ -4,3 +4,9 @@
     position: relative;
     z-index: 1;
 }
+
+@media (max-width: 1900px) {
+    .top__container {
+        width: 1200px;
+    }
+}

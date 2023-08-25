@@ -5,3 +5,12 @@
 
 
 }
+
+
+@media (max-width: 1900px) {
+    .footer__span {
+
+        font-weight: 600;
+        font-size: 30px;
+    }
+}

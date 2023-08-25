@@ -144,6 +144,12 @@
     z-index: 10;
 }
 
+@media (max-width: 1900px) {
+    .works__card7 {
+        font-size: 30px;
+    }
+}
+
 .works__card8:hover {
     -webkit-transform: scale(1.5);
     -ms-transform: scale(1.5);

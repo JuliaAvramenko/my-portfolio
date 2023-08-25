@@ -3,3 +3,11 @@
     height: 1070px;
     margin-left: 100px;
 }
+
+@media (max-width: 1900px) {
+    .footer__image-wrapper {
+        width: 700px;
+        height: 670px;
+        margin-left: 70px;
+    }
+}

@@ -2,3 +2,10 @@
     margin-top: 400px;
 
 }
+
+@media (max-width: 1900px) {
+    .top__wrapper {
+
+        margin-top: 300px;
+    }
+}

@@ -8,3 +8,11 @@
     margin-bottom: 50px;
     color: rgb(228, 226, 226);
 }
+
+
+@media (max-width: 1900px) {
+    .top__paragraph {
+        font-size: 15px;
+
+    }
+}

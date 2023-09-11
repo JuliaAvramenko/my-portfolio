@@ -14,3 +14,11 @@
         font-size: 30px;
     }
 }
+
+@media (max-width: 700px) {
+    .footer__span {
+
+        font-weight: 600;
+        font-size: 25px;
+    }
+}

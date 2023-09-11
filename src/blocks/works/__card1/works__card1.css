@@ -157,3 +157,43 @@
     position: relative;
     z-index: 20;
 }
+
+@media (max-width: 700px) {
+    .works__card1 {
+        height: 400px;
+    }
+
+    .works__card2 {
+        height: 400px;
+    }
+
+    .works__card3 {
+        height: 400px;
+    }
+
+    .works__card4 {
+        height: 400px;
+    }
+
+    .works__card5 {
+        height: 400px;
+    }
+
+    .works__card6 {
+        height: 400px;
+    }
+
+    .works__card7 {
+        height: 200px;
+        font-size: 40px;
+        text-align: center;
+    }
+
+    .works__card8 {
+        height: 400px;
+    }
+
+    .works__card9 {
+        height: 200px;
+    }
+}

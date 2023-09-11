@@ -8,8 +8,20 @@
 
 @media (max-width: 1900px) {
     .top__image {
-        width: 600px;
         height: 700px;
         margin-right: 60px;
+        width: 550px;
+        object-fit: contain;
+    }
+}
+
+@media (max-width: 700px) {
+    .top__image {
+        width: 400px;
+        height: 300px;
+        margin-right: 0;
+        object-fit: contain;
+        margin-top: 80px;
+        margin-bottom: 30px;
     }
 }

@@ -18,3 +18,13 @@
         line-height: 80px;
     }
 }
+
+@media (max-width: 700px) {
+    .footer__title {
+        font-size: 60px;
+
+        margin-bottom: 20px;
+        line-height: 50px;
+        text-align: center;
+    }
+}

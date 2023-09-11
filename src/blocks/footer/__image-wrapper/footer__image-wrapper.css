@@ -11,3 +11,12 @@
         margin-left: 70px;
     }
 }
+
+@media (max-width: 700px) {
+    .footer__image-wrapper {
+        width: 400px;
+        height: 400px;
+        margin-left: 0;
+        margin-bottom: 30px;
+    }
+}

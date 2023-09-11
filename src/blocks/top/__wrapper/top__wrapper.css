@@ -9,3 +9,10 @@
         margin-top: 300px;
     }
 }
+
+@media (max-width: 700px) {
+    .top__wrapper {
+
+        margin-top: 0;
+    }
+}

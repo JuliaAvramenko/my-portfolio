@@ -17,3 +17,11 @@
 
     }
 }
+
+@media (max-width: 700px) {
+    .top__title {
+        font-size: 60px;
+        line-height: 30px;
+
+    }
+}

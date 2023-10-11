@@ -106,6 +106,21 @@
     transform-origin: 0 0;
 }
 
+.works__video7 {
+    border: 0;
+    height: 400%;
+    list-style-type: none;
+    margin-bottom: 0;
+    margin-top: 0;
+    -o-object-fit: cover;
+    object-fit: cover;
+    overflow: hidden;
+    padding-left: 0;
+    width: 400%;
+    transform: scale(0.25);
+    transform-origin: 0 0;
+}
+
 
 
 @media (max-width: 1900px) {

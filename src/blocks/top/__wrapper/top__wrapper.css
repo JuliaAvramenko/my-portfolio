@@ -1,18 +1,19 @@
 .top__wrapper {
+    display: flex;
+    flex-direction: column;
     margin-top: 400px;
 
 }
 
 @media (max-width: 1900px) {
     .top__wrapper {
-
         margin-top: 300px;
     }
 }
 
 @media (max-width: 700px) {
     .top__wrapper {
-
         margin-top: 0;
+
     }
 }

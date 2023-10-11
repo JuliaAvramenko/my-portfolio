@@ -5,6 +5,7 @@
     grid-row-end: 4;
     background-color: transparent;
     overflow: hidden;
+    position: relative;
 }
 
 .works__card2 {
@@ -14,6 +15,7 @@
     grid-row-end: 3;
     background-color: transparent;
     overflow: hidden;
+    position: relative;
 }
 
 .works__card3 {
@@ -23,6 +25,7 @@
     grid-row-end: 3;
     background-color: transparent;
     overflow: hidden;
+    position: relative;
 }
 
 .works__card4 {
@@ -32,6 +35,7 @@
     grid-row-start: 3;
     background-color: transparent;
     overflow: hidden;
+    position: relative;
 
 }
 
@@ -42,6 +46,7 @@
     grid-row-end: 7;
     background-color: transparent;
     overflow: hidden;
+    position: relative;
 }
 
 .works__card6 {
@@ -51,9 +56,10 @@
     grid-row-end: 7;
     background-color: transparent;
     overflow: hidden;
+    position: relative;
 }
 
-.works__card7 {
+.works__card10 {
     grid-column-start: 1;
     grid-column-end: 3;
     grid-row-start: 7;
@@ -68,6 +74,17 @@
     font-weight: 500;
     font-size: 50px;
     overflow: hidden;
+    position: relative;
+}
+
+.works__card7 {
+    grid-column-start: 1;
+    grid-column-end: 3;
+    grid-row-start: 7;
+    grid-row-end: 9;
+    background-color: transparent;
+    overflow: hidden;
+    position: relative;
 }
 
 .works__card8 {
@@ -77,6 +94,7 @@
     grid-row-end: 9;
     background-color: transparent;
     overflow: hidden;
+    position: relative;
 }
 
 .works__card9 {
@@ -86,6 +104,7 @@
     grid-row-end: 5;
     background-color: transparent;
     overflow: hidden;
+    position: relative;
 }
 
 .works__card1:hover {
@@ -93,7 +112,7 @@
     -ms-transform: scale(1.5);
     transform: scale(1.5);
     position: relative;
-    z-index: 10;
+    z-index: 40;
 }
 
 .works__card2:hover {
@@ -101,7 +120,7 @@
     -ms-transform: scale(1.5);
     transform: scale(1.5);
     position: relative;
-    z-index: 10;
+    z-index: 40;
 }
 
 .works__card3:hover {
@@ -109,7 +128,7 @@
     -ms-transform: scale(1.5);
     transform: scale(1.5);
     position: relative;
-    z-index: 10;
+    z-index: 40;
 }
 
 .works__card4:hover {
@@ -117,7 +136,7 @@
     -ms-transform: scale(1.5);
     transform: scale(1.5);
     position: relative;
-    z-index: 10;
+    z-index: 40;
 }
 
 .works__card5:hover {
@@ -125,7 +144,7 @@
     -ms-transform: scale(1.5);
     transform: scale(1.5);
     position: relative;
-    z-index: 10;
+    z-index: 40;
 }
 
 .works__card6:hover {
@@ -133,7 +152,7 @@
     -ms-transform: scale(1.5);
     transform: scale(1.5);
     position: relative;
-    z-index: 10;
+    z-index: 40;
 }
 
 .works__card7:hover {
@@ -141,11 +160,11 @@
     -ms-transform: scale(1.5);
     transform: scale(1.5);
     position: relative;
-    z-index: 10;
+    z-index: 40;
 }
 
 @media (max-width: 1900px) {
-    .works__card7 {
+    .works__card10 {
         font-size: 30px;
     }
 }
@@ -155,45 +174,121 @@
     -ms-transform: scale(1.5);
     transform: scale(1.5);
     position: relative;
-    z-index: 20;
+    z-index: 40;
+}
+
+.works__card9:hover {
+    -webkit-transform: scale(1.5);
+    -ms-transform: scale(1.5);
+    transform: scale(1.5);
+    position: relative;
+    z-index: 40;
 }
 
 @media (max-width: 700px) {
     .works__card1 {
-        height: 400px;
+        height: 250px;
+        width: 200px;
     }
 
     .works__card2 {
-        height: 400px;
+        height: 250px;
+        width: 200px;
     }
 
     .works__card3 {
-        height: 400px;
+        height: 250px;
+        width: 200px;
     }
 
     .works__card4 {
-        height: 400px;
+        height: 250px;
+        width: 200px;
     }
 
     .works__card5 {
-        height: 400px;
+        height: 250px;
+        width: 200px;
     }
 
     .works__card6 {
-        height: 400px;
+        height: 250px;
+        width: 200px;
     }
 
     .works__card7 {
+        height: 250px;
+        width: 200px;
+    }
+
+    .works__card10 {
         height: 200px;
-        font-size: 40px;
+        width: 200px;
+        font-size: 20px;
         text-align: center;
     }
 
     .works__card8 {
-        height: 400px;
+        height: 250px;
+        width: 200px;
     }
 
     .works__card9 {
         height: 200px;
+        width: 200px;
+    }
+
+    .works__card1:hover {
+        -webkit-transform: none;
+        -ms-transform: none;
+        transform: none;
+    }
+
+    .works__card2:hover {
+        -webkit-transform: none;
+        -ms-transform: none;
+        transform: none;
+    }
+
+    .works__card3:hover {
+        -webkit-transform: none;
+        -ms-transform: none;
+        transform: none;
+    }
+
+    .works__card4:hover {
+        -webkit-transform: none;
+        -ms-transform: none;
+        transform: none;
+    }
+
+    .works__card5:hover {
+        -webkit-transform: none;
+        -ms-transform: none;
+        transform: none;
+    }
+
+    .works__card6:hover {
+        -webkit-transform: none;
+        -ms-transform: none;
+        transform: none;
+    }
+
+    .works__card7:hover {
+        -webkit-transform: none;
+        -ms-transform: none;
+        transform: none;
+    }
+
+    .works__card8:hover {
+        -webkit-transform: none;
+        -ms-transform: none;
+        transform: none;
+    }
+
+    .works__card9:hover {
+        -webkit-transform: none;
+        -ms-transform: none;
+        transform: none;
     }
 }

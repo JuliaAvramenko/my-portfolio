@@ -1,6 +1,5 @@
 .works__cards {
     width: 1720px;
-    height: 1800px;
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     grid-template-rows: repeat(9, 180px);
@@ -12,9 +11,6 @@
 @media (max-width: 1900px) {
     .works__cards {
         width: 1000px;
-        height: 1000px;
-
-
         grid-template-rows: repeat(9, 100px);
         grid-column-gap: 30px;
         grid-row-gap: 20px;
@@ -25,13 +21,11 @@
 
 @media (max-width: 700px) {
     .works__cards {
-        width: 400px;
-        height: 3000px;
+        width: 200px;
         display: flex;
         flex-direction: column;
-
-
-
         padding: 50px;
+        grid-column-gap: 0;
+        grid-row-gap: 80px;
     }
 }

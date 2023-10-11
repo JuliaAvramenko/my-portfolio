@@ -27,6 +27,7 @@
 
 @media (max-width: 700px) {
     .icons {
+        display: none;
         height: 90px;
         right: 0;
         row-gap: 5px;

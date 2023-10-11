@@ -7,6 +7,7 @@
     color: #4cc2de;
     margin-bottom: 100px;
     color: rgb(228, 226, 226);
+
 }
 
 @media (max-width: 1900px) {
@@ -18,9 +19,8 @@
 
 @media (max-width: 700px) {
     .top__text {
-        font-size: 30px;
-
-        margin-bottom: 50px;
+        font-size: 25px;
+        margin-bottom: 30px;
 
     }
 }

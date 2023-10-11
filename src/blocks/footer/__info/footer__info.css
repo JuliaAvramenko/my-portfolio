@@ -17,12 +17,11 @@
 
 @media (max-width: 700px) {
     .footer__info {
-        width: 500px;
 
-        padding: 30px;
         margin-left: 0;
         margin-top: 0;
         row-gap: 15px;
-        margin-bottom: 0;
+        margin-bottom: 30px;
+        width: 300px;
     }
 }

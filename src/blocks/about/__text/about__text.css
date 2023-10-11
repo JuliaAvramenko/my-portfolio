@@ -16,15 +16,15 @@
         font-size: 30px;
         margin-bottom: 20px;
         line-height: 50px;
-        width: 1000px;
+        width: 900px;
     }
 }
 
 @media (max-width: 700px) {
     .about__text {
-        font-size: 20px;
+        font-size: 18px;
         margin-bottom: 10px;
         line-height: 30px;
-        width: 400px;
+        width: 350px;
     }
 }

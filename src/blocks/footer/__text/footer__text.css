@@ -2,22 +2,22 @@
     margin: 0;
     padding: 0;
     font-weight: 300;
-    font-size: 35px;
+    font-size: 45px;
     color: rgb(228, 226, 226);
+
 
 
 }
 
 @media (max-width: 1900px) {
     .footer__text {
-
-        font-size: 20px;
+        font-size: 35px;
     }
 }
 
 @media (max-width: 700px) {
     .footer__text {
-
-        font-size: 20px;
+        font-size: 18px;
+        text-decoration: none;
     }
 }

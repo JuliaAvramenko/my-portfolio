@@ -2,6 +2,9 @@
     font-family: "Gilroy-Semibold", sans-serif;
     font-weight: 700;
     font-size: 40px;
+    color: rgb(228, 226, 226);
+    color: #002726;
+
 
 
 }
@@ -17,8 +20,7 @@
 
 @media (max-width: 700px) {
     .footer__span {
-
         font-weight: 600;
-        font-size: 25px;
+        font-size: 20px;
     }
 }
